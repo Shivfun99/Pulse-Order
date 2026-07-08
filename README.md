@@ -1,5 +1,7 @@
 # PulseBook
-![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clones&query=count&url=https://gist.githubusercontent.com/Shivfun99/c4935a2073e2566ec90fd5c44f1a48ed/raw/clone.json&logo=github)
+![Stars](https://img.shields.io/github/stars/Shivfun99/Pulse-Order?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/Shivfun99/Pulse-Order?style=for-the-badge)
+![Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clones&query=count&url=https://gist.githubusercontent.com/Shivfun99/c4935a2073e2566ec90fd5c44f1a48ed/raw/clone.json&logo=github)
 
 **PulseBook** is a C++20 + DPDK low-latency trading packet processor.
 
